@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mradigen
+- 👋 Hi, I’m [@mradigen](https://github.com/mradigen)
 - 👀 I’m interested in all tech, programming, games, and music!
 - 🌱 I’m currently learning how to get better at C++
 - 💞️ I’m looking to collaborate on anything from indie games to super cool dev tools
