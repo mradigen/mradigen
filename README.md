@@ -1,5 +1,5 @@
 <p align="center">
-	<img alt="mradigen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mradigen&theme=radical&show_icons=true&count_private=true" />
+	<img alt="mradigen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mradigen&theme=radical&show_icons=true&count_private=true&hide=issues" />
 </p>
 
 <!-- ![mradigen's GitHub stats](https://github-readme-stats.vercel.app/api?username=mradigen&count_private=true)
