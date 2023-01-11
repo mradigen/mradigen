@@ -9,6 +9,6 @@
 
 - 👋 Hi, I’m [@mradigen](https://github.com/mradigen)
 - 👀 I’m interested in all tech, programming, games, and music!
-- 🌱 I’m currently learning socket networking in C
-- 💞️ I’m looking to collaborate on anything from indie games to super annoying chat bots
-- 📫 How to reach me: Hit me up on [Discord](https://discord.com/invite/wAgek5p)!
+- 🌱 I’m currently building [TripeOne X](https://tripe.one/x), a new way to host game servers amongst friends!
+- 💞️ I’m looking to collaborate on anything from indie games to startups
+- 📫 How to reach me: Find me on [Discord](https://discord.com/invite/wAgek5p)!
